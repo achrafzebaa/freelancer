@@ -59,7 +59,7 @@
 <body>
 <jsp:include page="header.jsp" />
 <section id="projects" class="py-5">
-                <center><p class="p22">Connect with talented freelancers and find the perfect project.</p></center>
+                <center><p class="p22">Bienvenue dans l'espace ideale du FREELANCER.</p></center>
 
     <div class="container">
         
