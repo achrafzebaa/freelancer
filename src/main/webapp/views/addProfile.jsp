@@ -83,7 +83,7 @@
 
     <footer class="bg-light py-4 text-center">
         <div class="container">
-            <p class="text-muted mb-0">&copy; 2024 Freelance ESSAT. All rights reserved By SALMEN.</p>
+            <p class="text-muted mb-0">&copy; 2024 Freelance ESSAT. All rights reserved By Achraf.</p>
         </div>
     </footer>
 </body>
